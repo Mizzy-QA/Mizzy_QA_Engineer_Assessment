@@ -1,7 +1,7 @@
 Mizzy_QA_Engineer_Assessment
 Hi there!! :D
 
-Please ensure that the following is installed and running for the scripts to execute (or run the script EnvUpdate):
+Please ensure that the following is installed and running for the scripts to execute:
 
 #Step 1:
 PyCharm is set up and running.
